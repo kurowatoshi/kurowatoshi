@@ -19,39 +19,38 @@ I’m currently learning:
 </div>
 
 ## 💻 Tech Stack:
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; display: flex; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" width="100" />
-    <img src="https://img.shields.io/badge/css3-%234A90E2.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="100" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="100" />
-    <img src="https://img.shields.io/badge/java-%23B07C34.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="100" />
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%230A0A0A" alt="JavaScript" width="100" />
-    <img src="https://img.shields.io/badge/php-%237BB5A2.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="100" />
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" width="100" />
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" width="100" />
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" width="100" />
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" width="100" />
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="100" />
-    <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" width="100" />
-    <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter" width="100" />
-    <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron" width="100" />
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" width="100" />
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" width="100" />
-    <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin" width="100" />
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" width="100" />
-    <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" width="100" />
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" width="100" />
-    <img src="https://img.shields.io/badge/adobe-%23C32C3A.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" width="100" />
-    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" width="100" />
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" width="100" />
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" width="100" />
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" width="100" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="100" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" width="100" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif" alt="Tech GIF" width="300" />
-  </div>
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif" alt="Tech GIF" width="400" />
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#" width="100" />
+  <img src="https://img.shields.io/badge/css3-%234A90E2.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" width="100" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" width="100" />
+  <img src="https://img.shields.io/badge/java-%23B07C34.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" width="100" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=%230A0A0A" alt="JavaScript" width="100" />
+  <img src="https://img.shields.io/badge/php-%237BB5A2.svg?style=flat&logo=php&logoColor=white" alt="PHP" width="100" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white" alt="Firebase" width="100" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" width="100" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" width="100" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" alt=".NET" width="100" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="100" />
+  <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white" alt="Blazor" width="100" />
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white" alt="CodeIgniter" width="100" />
+  <img src="https://img.shields.io/badge/Electron-191970.svg?style=flat&logo=Electron&logoColor=white" alt="Electron" width="100" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery" width="100" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" width="100" />
+  <img src="https://img.shields.io/badge/Xamarin-3199DC.svg?style=flat&logo=xamarin&logoColor=white" alt="Xamarin" width="100" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" width="100" />
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=flat&logo=mariadb&logoColor=white" alt="MariaDB" width="100" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" width="100" />
+  <img src="https://img.shields.io/badge/adobe-%23C32C3A.svg?style=flat&logo=adobe&logoColor=white" alt="Adobe" width="100" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" width="100" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" width="100" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" width="100" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137.svg?style=flat&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" width="100" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" width="100" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva" width="100" />
 </div>
 
 ## 📊 GitHub Stats:
