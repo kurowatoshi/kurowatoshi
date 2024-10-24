@@ -9,9 +9,9 @@ I’m looking for someone to collaborate with on creating an online MMORPG!
 
 ## 📚 Learning
 I’m currently learning:  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
+![React](https://img.shields.io/badge/React-%2300A1D6.svg?style=flat&logo=react&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=%230A0A0A) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%234B7F52.svg?style=flat&logo=typescript&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%7F52B5.svg?style=flat&logo=kotlin&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%234A90E2.svg?style=flat&logo=css3&logoColor=white)
@@ -46,18 +46,18 @@ I’m currently learning:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kurowatoshi&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kurowatoshi&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kurowatoshi&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kurowatoshi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kurowatoshi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kurowatoshi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kurowatoshi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kurowatoshi&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=darkhub)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kurowatoshi&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kurowatoshi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
