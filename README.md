@@ -9,7 +9,6 @@ I’m looking for someone to collaborate with on creating an online MMORPG!
 
 ## 📚 Learning
 I’m currently learning:  
-
 ![React](https://img.shields.io/badge/React-%2300A1D6.svg?style=flat&logo=react&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=%230A0A0A) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%234B7F52.svg?style=flat&logo=typescript&logoColor=white) 
@@ -17,13 +16,12 @@ I’m currently learning:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%234A90E2.svg?style=flat&logo=css3&logoColor=white)
 
-
 ## 💻 Tech Stack:
-
 <div style="text-align: center;">
   <img src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif" alt="Tech GIF" width="400" />
 </div>
 <br>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/css3-%234A90E2.svg?style=flat&logo=css3&logoColor=white) 
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -51,23 +49,20 @@ I’m currently learning:
     ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137.svg?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+</div>
 
 ## 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=kurowatoshi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kurowatoshi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kurowatoshi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=kurowatoshi&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-
 ![](https://github-contributor-stats.vercel.app/api?username=kurowatoshi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
