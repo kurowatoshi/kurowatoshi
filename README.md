@@ -24,7 +24,6 @@ I’m currently learning:
   <img src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif" alt="Tech GIF" width="400" />
 </div>
 <br>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
     ![CSS3](https://img.shields.io/badge/css3-%234A90E2.svg?style=flat&logo=css3&logoColor=white) 
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -52,7 +51,6 @@ I’m currently learning:
     ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137.svg?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-</div>
 
 ## 📊 GitHub Stats:
 
