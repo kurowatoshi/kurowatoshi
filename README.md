@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Kurowatoshi]!
+# 👋 Hi there, I'm [PJ Quiros]!
 
 🎓 I’m a 21-year-old computer science student in my 4th year. I love exploring the world of programming and software development!
 
