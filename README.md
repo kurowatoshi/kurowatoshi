@@ -3,7 +3,7 @@
 🎓 I’m a 21-year-old computer science student in my 4th year. I love exploring the world of programming and software development!
 
 ## 🚀 Current Projects
-I'm currently working on the [Unified Barangay Information and Service Portal](https://github.com/BrgyLink/UNIFIED-BARANGAY-INFORMATION-AND-SERVICE-PORTAL).
+I'm currently working on the [Unified Barangay Information and Service Portal](https://github.com/BrgyLink).
 
 I’m looking for someone to collaborate with on creating an online MMORPG!
 
