@@ -40,7 +40,3 @@ I’m currently learning:
 - C# and mobile software development
 - Java, JavaScript, PHP, and Laravel
 ---
-### Fun Fact:
-I don’t like coffee; it makes me sleepy!
----
-[![](https://visitcount.itsvg.in/api?id=kurowatoshi&icon=2&color=2)](https://visitcount.itsvg.in)
