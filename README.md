@@ -30,20 +30,17 @@ I’m currently learning:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
 
-
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kurowatoshi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
 ### 🤔 Ask me about:
 - C# and mobile software development
 - Java, JavaScript, PHP, and Laravel
-
+---
 ### Fun Fact:
 I don’t like coffee; it makes me sleepy!
-
+---
 [![](https://visitcount.itsvg.in/api?id=kurowatoshi&icon=2&color=2)](https://visitcount.itsvg.in)
