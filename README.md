@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [PJ Quiros]!
 
-🎓 I’m a 21-year-old computer science student in my 4th year. I love exploring the world of programming and software development!
+🎓 Aspiring Full-Stack Developer / Software Engineer
 
 ## 🚀 Current Projects
 I'm currently working on the [Unified Barangay Information and Service Portal](https://github.com/BrgyLink).
@@ -24,7 +24,6 @@ I’m currently learning:
 ![CSS3](https://img.shields.io/badge/css3-%234A90E2.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23B07C34.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%237BB5A2.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
@@ -38,5 +37,4 @@ I’m currently learning:
 
 ### 🤔 Ask me about:
 - C# and mobile software development
-- Java, JavaScript, PHP, and Laravel
 ---
