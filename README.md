@@ -1,40 +1,40 @@
-# 👋 Hi there, I'm [PJ Quiros]!
+# 👋 Hi, I'm PJ Quiros
 
-🎓 Aspiring Full-Stack Developer / Software Engineer
-
-## 🚀 Current Projects
-I'm currently working on the [Unified Barangay Information and Service Portal](https://github.com/BrgyLink).
-
-I’m looking for someone to collaborate with on creating an online MMORPG!
-
-## 📚 Learning
-I’m currently learning:  
-
-![React](https://img.shields.io/badge/React-%2300A1D6.svg?style=for-the-badge&logo=react&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%230A0A0A) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%234B7F52.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-
-## 💻 Tech Stack:
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif" alt="Tech GIF" width="400" />
-</div>
-<br>
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%234A90E2.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23B07C34.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🎓 Aspiring Full-Stack Developer & Software Engineer  
+💡 Passionate about building impactful software and learning new technologies.
 
 ---
 
-### 🤔 Ask me about:
-- C# and mobile software development
+## 🚧 Current Projects
+- Looking for collaborators for an **BUSINESS** project — let's connect!
+
 ---
+
+## 📚 Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+---
+
+## 💻 Tech Stack
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+
+---
+
+## 💬 Ask Me About
+- C# & .NET development
+- Mobile app development
+
+---
+
+> 💬 _"First, solve the problem. Then, write the code."_  
+> — John Johnson
+
